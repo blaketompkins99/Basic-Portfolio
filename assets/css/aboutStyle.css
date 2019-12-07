@@ -216,6 +216,16 @@ body {
     border: 0 none;
   }
 
+  .port {
+      height: 250px;
+      width: 500px;
+  }
+
+  .links {
+      clear: both;
+      margin: 150px auto auto auto;
+  }
+
   @media screen and (max-width: 980px) {
 
     nav {
@@ -223,6 +233,8 @@ body {
     }
 
     .work {
+        height: 300px;
+        width: 550px;
         margin: auto 15px 20px 15px;
     }
 
